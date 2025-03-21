@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme {
+    --font-display: "Times New Roman", "sans-serif"; 
+  }
+
+  .leaflet-container {
+    height: 100%;
+    width: 100%;
+  }
+  /* you can have custom dimension according to your use case */
